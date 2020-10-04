@@ -1,3 +1,6 @@
 [submodule "tuplet"]
 	path = tuplet
 	url = https://github.com/functionalperez/tuplet.git
+[submodule "arglet"]
+	path = arglet
+	url = https://github.com/functionalperez/arglet.git
