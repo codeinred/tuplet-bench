@@ -4,3 +4,7 @@
 [submodule "arglet"]
 	path = arglet
 	url = https://github.com/functionalperez/arglet.git
+	branch = dev
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
